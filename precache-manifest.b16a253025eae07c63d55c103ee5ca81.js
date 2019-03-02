@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/clickgame/static/js/runtime~main.0f98500e.js"
   },
   {
-    "revision": "4963ac72a87dfae6c9f6",
-    "url": "/clickgame/static/js/main.4963ac72.chunk.js"
+    "revision": "317d8ecc1e19f186509b",
+    "url": "/clickgame/static/js/main.317d8ecc.chunk.js"
   },
   {
     "revision": "aa3b5aed22f6e2223fda",
     "url": "/clickgame/static/js/2.aa3b5aed.chunk.js"
   },
   {
-    "revision": "4963ac72a87dfae6c9f6",
-    "url": "/clickgame/static/css/main.6145cb8b.chunk.css"
+    "revision": "317d8ecc1e19f186509b",
+    "url": "/clickgame/static/css/main.c5e23c5f.chunk.css"
   },
   {
-    "revision": "216dbb404cb72744da47063084dacf2c",
+    "revision": "03f6f2dc8fbd21a3be6c43bbe24965ae",
     "url": "/clickgame/index.html"
   }
 ];
